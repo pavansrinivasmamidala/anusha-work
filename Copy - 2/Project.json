@@ -1,0 +1,8 @@
+[
+  { "name": "Routing Application", "duration": "3 months", "projectId": "1" },
+  {
+    "name": "Accounts Management Application",
+    "duration": "6 months",
+    "projectId": "2"
+  }
+]

@@ -1,0 +1,13 @@
+Version of NodeJS and NPM
+
+Command to check Node Version: node -v\
+Command to check NPM Version: npm -v
+
+Create a file named hello.js
+Add this code into the file:
+
+console.log("Hello World")
+
+
+Run this file using: node hello.js
+
